@@ -1,0 +1,304 @@
+23:53:12.080 [main] INFO  com.example.demo.SareetaApplicationTests - Starting SareetaApplicationTests on smurF3r with PID 11956 (started by smurF3r in C:\Users\smurF3r\Desktop\nd035-c4-Security-and-DevOps\starter_code)
+23:53:12.080 [main] INFO  com.example.demo.SareetaApplicationTests - Starting SareetaApplicationTests on smurF3r with PID 11956 (started by smurF3r in C:\Users\smurF3r\Desktop\nd035-c4-Security-and-DevOps\starter_code)
+23:53:12.103 [main] DEBUG com.example.demo.SareetaApplicationTests - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+23:53:12.103 [main] DEBUG com.example.demo.SareetaApplicationTests - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+23:53:12.108 [main] INFO  com.example.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+23:53:12.108 [main] INFO  com.example.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+23:53:12.210 [main] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@493dfb8e
+23:53:23.185 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+23:53:23.231 [main] WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+23:53:23.749 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - 12 mappings in 'requestMappingHandlerMapping'
+23:53:23.967 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:53:26.343 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:53:26.466 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+23:53:27.219 [main] INFO  com.example.demo.SareetaApplicationTests - Started SareetaApplicationTests in 15.847 seconds (JVM running for 20.462)
+23:53:27.219 [main] INFO  com.example.demo.SareetaApplicationTests - Started SareetaApplicationTests in 15.847 seconds (JVM running for 20.462)
+23:53:27.586 [Thread-2] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@493dfb8e, started on Wed Jul 27 23:53:12 ICT 2022
+23:58:02.123 [main] INFO  com.example.demo.SareetaApplicationTests - Starting SareetaApplicationTests on smurF3r with PID 24028 (started by smurF3r in C:\Users\smurF3r\Desktop\nd035-c4-Security-and-DevOps\starter_code)
+23:58:02.123 [main] INFO  com.example.demo.SareetaApplicationTests - Starting SareetaApplicationTests on smurF3r with PID 24028 (started by smurF3r in C:\Users\smurF3r\Desktop\nd035-c4-Security-and-DevOps\starter_code)
+23:58:02.168 [main] DEBUG com.example.demo.SareetaApplicationTests - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+23:58:02.168 [main] DEBUG com.example.demo.SareetaApplicationTests - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+23:58:02.172 [main] INFO  com.example.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+23:58:02.172 [main] INFO  com.example.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+23:58:02.333 [main] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@47da3952
+23:58:20.381 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+23:58:20.578 [main] WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+23:58:21.488 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - 12 mappings in 'requestMappingHandlerMapping'
+23:58:21.779 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:58:25.221 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:58:25.452 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+23:58:27.132 [main] INFO  com.example.demo.SareetaApplicationTests - Started SareetaApplicationTests in 26.083 seconds (JVM running for 30.933)
+23:58:27.132 [main] INFO  com.example.demo.SareetaApplicationTests - Started SareetaApplicationTests in 26.083 seconds (JVM running for 30.933)
+23:58:27.883 [Thread-2] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@47da3952, started on Wed Jul 27 23:58:02 ICT 2022
+23:58:47.235 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: not_found
+23:58:47.235 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: not_found
+23:58:47.280 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:58:47.280 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:58:47.349 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: not_found
+23:58:47.349 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: not_found
+23:58:47.351 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:58:47.351 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:58:47.363 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: zane
+23:58:47.363 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: zane
+23:58:47.404 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:58:47.404 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:58:47.439 [main] ERROR com.example.demo.controllers.CartController - Error occurred while save cart.
+java.lang.RuntimeException: Cart Repository error!
+	at com.example.demo.controllers.CartController.addToCart(CartController.java:51) [classes/:?]
+	at com.example.demo.controllers.CartControllerTest.testAddToCart_failed(CartControllerTest.java:67) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39) [mockito-core-2.23.4.jar:?]
+	at org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163) [mockito-core-2.23.4.jar:?]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) [junit-rt.jar:?]
+23:58:47.439 [main] ERROR com.example.demo.controllers.CartController - Error occurred while save cart.
+java.lang.RuntimeException: Cart Repository error!
+	at com.example.demo.controllers.CartController.addToCart(CartController.java:51) [classes/:?]
+	at com.example.demo.controllers.CartControllerTest.testAddToCart_failed(CartControllerTest.java:67) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39) [mockito-core-2.23.4.jar:?]
+	at org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163) [mockito-core-2.23.4.jar:?]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) [junit-rt.jar:?]
+23:58:47.567 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:58:47.567 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:58:47.785 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:58:47.785 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:58:47.787 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:58:47.787 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:58:47.792 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:58:47.792 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:58:47.794 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:58:47.794 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:58:47.802 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:58:47.802 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:58:47.804 [main] INFO  com.example.demo.controllers.OrderController - Success: The order of user: zane found!
+23:58:47.804 [main] INFO  com.example.demo.controllers.OrderController - Success: The order of user: zane found!
+23:58:47.808 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:58:47.808 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:58:47.810 [main] INFO  com.example.demo.controllers.OrderController - OrderId: null has been created by user: zane
+23:58:47.810 [main] INFO  com.example.demo.controllers.OrderController - OrderId: null has been created by user: zane
+23:58:47.889 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:58:47.889 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:58:47.891 [main] ERROR com.example.demo.controllers.UserController - User zane, does not exist
+23:58:47.891 [main] ERROR com.example.demo.controllers.UserController - User zane, does not exist
+23:58:47.898 [main] INFO  com.example.demo.controllers.UserController - Try to find user by id: 1
+23:58:47.898 [main] INFO  com.example.demo.controllers.UserController - Try to find user by id: 1
+23:58:47.903 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:58:47.903 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:58:47.905 [main] INFO  com.example.demo.controllers.UserController - Success: User: zane found!
+23:58:47.905 [main] INFO  com.example.demo.controllers.UserController - Success: User: zane found!
+23:58:47.910 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:58:47.910 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:58:47.911 [main] ERROR com.example.demo.controllers.UserController - User was not created, because password is bigger than 7 characters or password does not match
+23:58:47.911 [main] ERROR com.example.demo.controllers.UserController - User was not created, because password is bigger than 7 characters or password does not match
+23:58:47.916 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:58:47.916 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:58:47.920 [main] INFO  com.example.demo.controllers.UserController - Success: User username, been created!
+23:58:47.920 [main] INFO  com.example.demo.controllers.UserController - Success: User username, been created!
+23:59:15.817 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: not_found
+23:59:15.817 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: not_found
+23:59:15.861 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:59:15.861 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:59:15.908 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: not_found
+23:59:15.908 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: not_found
+23:59:15.910 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:59:15.910 [main] ERROR com.example.demo.controllers.CartController - User not_found, does not exist!
+23:59:15.916 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: zane
+23:59:15.916 [main] INFO  com.example.demo.controllers.CartController - Try to remove item id: 1 from user: zane
+23:59:15.939 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:59:15.939 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:59:15.946 [main] ERROR com.example.demo.controllers.CartController - Error occurred while save cart.
+java.lang.RuntimeException: Cart Repository error!
+	at com.example.demo.controllers.CartController.addToCart(CartController.java:51) [classes/:?]
+	at com.example.demo.controllers.CartControllerTest.testAddToCart_failed(CartControllerTest.java:67) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39) [mockito-core-2.23.4.jar:?]
+	at org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163) [mockito-core-2.23.4.jar:?]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) [junit-rt.jar:?]
+23:59:15.946 [main] ERROR com.example.demo.controllers.CartController - Error occurred while save cart.
+java.lang.RuntimeException: Cart Repository error!
+	at com.example.demo.controllers.CartController.addToCart(CartController.java:51) [classes/:?]
+	at com.example.demo.controllers.CartControllerTest.testAddToCart_failed(CartControllerTest.java:67) [test-classes/:?]
+	at jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:577) ~[?:?]
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12) [junit-4.12.jar:4.12]
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.ExpectException.evaluate(ExpectException.java:19) [junit-4.12.jar:4.12]
+	at org.junit.internal.runners.statements.RunBefores.evaluate(RunBefores.java:26) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:325) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:78) [junit-4.12.jar:4.12]
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:57) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.mockito.internal.runners.DefaultInternalRunner$1.run(DefaultInternalRunner.java:79) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.DefaultInternalRunner.run(DefaultInternalRunner.java:85) [mockito-core-2.23.4.jar:?]
+	at org.mockito.internal.runners.StrictRunner.run(StrictRunner.java:39) [mockito-core-2.23.4.jar:?]
+	at org.mockito.junit.MockitoJUnitRunner.run(MockitoJUnitRunner.java:163) [mockito-core-2.23.4.jar:?]
+	at org.junit.runners.Suite.runChild(Suite.java:128) [junit-4.12.jar:4.12]
+	at org.junit.runners.Suite.runChild(Suite.java:27) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268) [junit-4.12.jar:4.12]
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:363) [junit-4.12.jar:4.12]
+	at org.junit.runner.JUnitCore.run(JUnitCore.java:137) [junit-4.12.jar:4.12]
+	at com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69) [junit-rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater$1.execute(IdeaTestRunner.java:38) [junit-rt.jar:?]
+	at com.intellij.rt.execution.junit.TestsRepeater.repeat(TestsRepeater.java:11) [idea_rt.jar:?]
+	at com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:35) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:235) [junit-rt.jar:?]
+	at com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54) [junit-rt.jar:?]
+23:59:15.997 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:59:15.997 [main] INFO  com.example.demo.controllers.CartController - Try to add item id: 1 to user: zane
+23:59:16.299 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:59:16.299 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:59:16.301 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:59:16.301 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:59:16.311 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:59:16.311 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:59:16.313 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:59:16.313 [main] ERROR com.example.demo.controllers.OrderController - User zane, does not exist!
+23:59:16.322 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:59:16.322 [main] INFO  com.example.demo.controllers.OrderController - Try to get order for user: zane
+23:59:16.323 [main] INFO  com.example.demo.controllers.OrderController - Success: The order of user: zane found!
+23:59:16.323 [main] INFO  com.example.demo.controllers.OrderController - Success: The order of user: zane found!
+23:59:16.329 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:59:16.329 [main] INFO  com.example.demo.controllers.OrderController - Try to find user by name: zane
+23:59:16.331 [main] INFO  com.example.demo.controllers.OrderController - OrderId: null has been created by user: zane
+23:59:16.331 [main] INFO  com.example.demo.controllers.OrderController - OrderId: null has been created by user: zane
+23:59:16.492 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:59:16.492 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:59:16.503 [main] ERROR com.example.demo.controllers.UserController - User zane, does not exist
+23:59:16.503 [main] ERROR com.example.demo.controllers.UserController - User zane, does not exist
+23:59:16.510 [main] INFO  com.example.demo.controllers.UserController - Try to find user by id: 1
+23:59:16.510 [main] INFO  com.example.demo.controllers.UserController - Try to find user by id: 1
+23:59:16.517 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:59:16.517 [main] INFO  com.example.demo.controllers.UserController - Try to find user by name: zane
+23:59:16.519 [main] INFO  com.example.demo.controllers.UserController - Success: User: zane found!
+23:59:16.519 [main] INFO  com.example.demo.controllers.UserController - Success: User: zane found!
+23:59:16.529 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:59:16.529 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:59:16.531 [main] ERROR com.example.demo.controllers.UserController - User was not created, because password is bigger than 7 characters or password does not match
+23:59:16.531 [main] ERROR com.example.demo.controllers.UserController - User was not created, because password is bigger than 7 characters or password does not match
+23:59:16.538 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:59:16.538 [main] INFO  com.example.demo.controllers.UserController - try to create user: username
+23:59:16.557 [main] INFO  com.example.demo.controllers.UserController - Success: User username, been created!
+23:59:16.557 [main] INFO  com.example.demo.controllers.UserController - Success: User username, been created!
+23:59:17.793 [main] INFO  com.example.demo.SareetaApplicationTests - Starting SareetaApplicationTests on smurF3r with PID 17404 (started by smurF3r in C:\Users\smurF3r\Desktop\nd035-c4-Security-and-DevOps\starter_code)
+23:59:17.793 [main] INFO  com.example.demo.SareetaApplicationTests - Starting SareetaApplicationTests on smurF3r with PID 17404 (started by smurF3r in C:\Users\smurF3r\Desktop\nd035-c4-Security-and-DevOps\starter_code)
+23:59:17.799 [main] DEBUG com.example.demo.SareetaApplicationTests - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+23:59:17.799 [main] DEBUG com.example.demo.SareetaApplicationTests - Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+23:59:17.810 [main] INFO  com.example.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+23:59:17.810 [main] INFO  com.example.demo.SareetaApplicationTests - No active profile set, falling back to default profiles: default
+23:59:17.949 [main] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Refreshing org.springframework.web.context.support.GenericWebApplicationContext@53e800f9
+23:59:46.044 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/**/favicon.ico] in 'faviconHandlerMapping'
+23:59:46.309 [main] WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+23:59:47.094 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping - 12 mappings in 'requestMappingHandlerMapping'
+23:59:47.451 [main] DEBUG org.springframework.web.servlet.handler.SimpleUrlHandlerMapping - Patterns [/webjars/**, /**] in 'resourceHandlerMapping'
+23:59:51.397 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter - ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+23:59:51.676 [main] DEBUG org.springframework.web.servlet.mvc.method.annotation.ExceptionHandlerExceptionResolver - ControllerAdvice beans: 0 @ExceptionHandler, 1 ResponseBodyAdvice
+23:59:53.349 [main] INFO  com.example.demo.SareetaApplicationTests - Started SareetaApplicationTests in 36.563 seconds (JVM running for 45.721)
+23:59:53.349 [main] INFO  com.example.demo.SareetaApplicationTests - Started SareetaApplicationTests in 36.563 seconds (JVM running for 45.721)
+23:59:53.777 [Thread-2] DEBUG org.springframework.web.context.support.GenericWebApplicationContext - Closing org.springframework.web.context.support.GenericWebApplicationContext@53e800f9, started on Wed Jul 27 23:59:17 ICT 2022
